@@ -6,7 +6,7 @@ Whatsapp crashing tool
 
 ## Description
 
-this tool is made by Guccifer Shubham (shubhushubhu99) and by using this tool you can crash any whatsapp by just their number but before using this this I'll tell you this tool isn't made for illegal purpose it's just for the prank and if you're performing any illegal activities then we're not responsible for any kind of damage 
+this tool is made TRHACKNON () and by using this tool you can crash any whatsapp by just their number but before using this this I'll tell you this tool isn't made for illegal purpose it's just for the prank and if you're performing any illegal activities then we're not responsible for any kind of damage 
 
 ## Getting Started
 
