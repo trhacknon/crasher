@@ -40,6 +40,9 @@ cd crasher
 ```
 ```
 Python3 crash.py
+ID=trhack
+MDP=trhack
+
 ```
 
 
