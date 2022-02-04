@@ -1,7 +1,7 @@
 # Crasher
 Whatsapp crashing tool
 
-<img src="https://img.shields.io/badge/Trhacknon--RamSom-Android%20Ransomware-brightgreen"><br>
+<img src="https://img.shields.io/badge/Trhacknon--crasher-brightgreen"><br>
 
 
 
