@@ -1,7 +1,7 @@
 # Crasher
 Whatsapp crashing tool
 
-<img src="https://img.shields.io/badge/Trhacknon--crasher-brightgreen"><br>
+<img src="https://img.shields.io/badge/trhacknon--crasher-brightgreen"><br>
 <div>
 		  <center><img style="width: 165px;" src="https://b.top4top.io/p_210130c5s0.gif" /></center>
 	</div>
@@ -34,7 +34,7 @@ pkg install git
 pkg install python3
 ```
 ```
-git clone https:www.github.com/trhacknonimous/crasher
+git clone https:www.github.com/trhacknon/crashWA
 ```
 ```
 ls 
