@@ -40,7 +40,7 @@ git clone https:www.github.com/trhacknon/crashWA
 ls 
 ```
 ```
-cd crasher
+cd crashWA
 ```
 ```
 bash dl.sh
