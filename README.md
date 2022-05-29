@@ -43,6 +43,9 @@ ls
 cd crasher
 ```
 ```
+bash dl.sh
+```
+```
 Python3 crash.py
 ID=trhack
 MDP=trhack
